@@ -27,5 +27,6 @@ I'm looking for my next role — ideally at a smaller company working on hard, u
 
 ## Get In Touch
 
-📫 nevzheng@gmail.com  
+📫 [nevzheng@gmail.com](mailto://nevzheng@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/nevinzheng/)
+📝 [Blog](https://n8z.dev)
