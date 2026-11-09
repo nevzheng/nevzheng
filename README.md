@@ -33,6 +33,7 @@ I’m looking for my next engineering role in databases, data infrastructure, or
 
 ## Get In Touch
 
+📄 [Resume](https://n8z.dev/resume/)
 📫 [nevzheng@gmail.com](mailto:nevzheng@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/nevinzheng/)
 📝 [Blog](https://n8z.dev)
